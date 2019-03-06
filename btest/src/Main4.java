@@ -8,5 +8,9 @@ public class Main4 {
         System.out.println("Hello, World");
         System.out.println("Hello, World");
 	}
+	public void doit2() {
+        System.out.println("Hello, World2");
+        System.out.println("Hello, World2");
+	}
 
 }
