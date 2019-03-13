@@ -7,6 +7,7 @@ public class Main3 {
 	public void write() {
         System.out.println("Hello, World");
         System.out.println("Hello, World");
+        System.out.println("Hello, World");
 	}
 
 }
