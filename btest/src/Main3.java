@@ -4,6 +4,7 @@ public class Main3 {
 		write();
 		write();
 		write();
+		write();
 	}
 
 	public void write() {
